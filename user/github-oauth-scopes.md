@@ -8,7 +8,7 @@ When you sign in to Travis CI for the first time, we ask for permissions to acce
 some of your data on GitHub. Read the [GitHub API Scope Documentation](https://developer.github.com/v3/oauth/#scopes)
  for general information about this, or pick an explanation of what data we need and why we need it.
 
-<div id="toc"></div>
+
 
 ## Travis CI for Open Source and Private Projects
 
@@ -22,7 +22,7 @@ On <https://travis-ci.com>, via our GitHub Apps integration, we ask for the foll
 
 Before GitHub Apps, we used scoped OAuth tokens to integrate with GitHub. As of May 2018, OAuth-based integration is considered our "Legacy" integration.
 
-### Travis CI for Private Projects
+### Repositories on https://travis-ci.com (Private and public)
 
 - `user:email` (read-only)
 
@@ -50,7 +50,7 @@ Before GitHub Apps, we used scoped OAuth tokens to integrate with GitHub. As of 
 
     We need this level of access because GitHub does not provide the `read:org` (read-only) scope for private repositories.
 
-### Travis CI for Open Source Projects
+### Repositories on https://travis-ci.org
 
 On <https://travis-ci.org> we ask for the following permissions:
 

@@ -1,13 +1,14 @@
 ---
 title: Privacy Policy
 layout: en
+no_toc: true
 
 ---
-Below is an overview of what data we collect for what purpose and how we ensure the protection of the data in [short](#In-short) and in a more [detailed](#In-more-detailed-form) form. For details on data security please refer <a href="https://docs.travis-ci.com/legal/privacy-policy/#VIII.-Data-Security" data-proofer-ignore>here</a>.
+Below is an overview of what data we collect for what purpose and how we ensure the protection of the data in [short](#in-short) and in a more [detailed](#in-more-detailed-form) form. For details on data security please refer <a href="https://docs.travis-ci.com/legal/privacy-policy/#viii-data-security">here</a>.
 
 We take the protection of our users’ (**“User/you/your”**) personal data very seriously and strictly comply with applicable data protection laws and regulations. In our privacy policy below (**“Privacy Policy”**) we provide you with an overview of what data we collect for what purpose and how we ensure the protection of the data.
 
-The controller is Travis CI GmbH, Rigaer Straße 8, 10247 Berlin/Germany, registered at the local court (Amtsgericht) of Charlottenburg under HRB 40133 B, represented by the managing directors Fritz Thielemann and Konstantin Haase (“we/us/our”). We offer websites at travis-ci.org and travis-ci.com (each and jointly the “Website”) which provide customers (“Customer(s)”) with certain services related to our Travis CI Software as defined in our Terms and Conditions in their applicable form (the “TC”) (“Travis CI Software”). Customer will create an admin account via our Website and make the services of the Travis CI Software also available to other Users.
+The controller is Travis CI GmbH, Rigaer Straße 8, 10247 Berlin/Germany, registered at the local court (Amtsgericht) of Charlottenburg under HRB 40133 B, represented by the managing director Randy Jacops (“we/us/our”). We offer websites at travis-ci.org and travis-ci.com (each and jointly the “Website”) which provide customers (“Customer(s)”) with certain services related to our Travis CI Software as defined in our Terms and Conditions in their applicable form (the “TC”) (“Travis CI Software”). Customer will create an admin account via our Website and make the services of the Travis CI Software also available to other Users.
 
 Please read the following information regarding the privacy policy carefully. In case you have further questions, please do not hesitate to contact us at any time at data@travis-ci.com.
 
@@ -18,10 +19,10 @@ Please read the following information regarding the privacy policy carefully. In
 Travis CI GmbH
 Rigaer Straße 8, 10247 Berlin/Germany,
 registered at the local court (Amtsgericht) of Charlottenburg under HRB 40133 B,
-represented by the managing directors Fritz Thielemann and Konstantin Haase
+represented by the managing director Randy Jacops
 email: data@travis-ci.com
 
-We have appointed a data protection officer who may be reached via data@travis-ci.com. 
+We have appointed a data protection officer who may be reached via data@travis-ci.com.
 
 According to the Terms and Conditions between Customer and us, such Customers are responsible for the (personal) data included by them on the Website and our Travis CI Software, including but not limited to required consents by the affected individuals. Therefore, each affected Users may also contact Customer regarding the use of their personal data in the Travis CI Software or on the Website, as applicable. Customer may also use User’s data in connection with other third party services. For this purpose User may also contact Customer or ask us to contact Customer about this.
 
@@ -38,6 +39,10 @@ According to the Terms and Conditions between Customer and us, such Customers ar
 **Your data will be used for the purposes of using the Travis CI Software as follows:**
 
 - in order to register per an existing user account on the GitHub website https://github.com operated by GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA (“GitHub”) and transfer data with your explicit consent and for providing the Travis CI Software and to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations ((§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
+- in order to register per an existing user account on the Bitbucket website https://bitbucket.org/ operated by Atlassian Corporation Plc, 341 George Street, Sydney, NSW, 2000 Australia (“Atlassian”) and transfer data with your explicit consent and for providing the Travis CI Software and to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations ((§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
+- in order to register per an existing user account on the GitLab website https://about.gitlab.com/ operated by GitLab Inc, 268 Bush Street #350, San Francisco, CA 94104, United States of America, and transfer data with your explicit consent and for providing the Travis CI Software and to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations ((§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
+- in order to register per an existing user account on the Assembla website https://www.assembla.com/ operated by Assembla, An Idera, Inc. Company, 10801 North Mopac Expressway, Austin, TX 78759, United States of America, and transfer data with your explicit consent and for providing the Travis CI Software and to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations ((§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
+
 - for analysis purposes and improving the Travis CI Software based on Art. 6 (1) f. GDPR.
 
 Applicable legal provisions are in particular those of the regulation (EU) 2016/679 of the European Parliament and Council of 27 April 2016, repealing the directive 95/46/EC, on the protection of individuals with regard to the processing of personal data, on the free movement of such data (“General Data Protection Regulation”, GDPR) as well as in the Federal Data Protection Act (Bundesdatenschutzgesetz, BDSG) and the German Telemedia Act (Telemediengesetz, TMG).
@@ -70,7 +75,7 @@ To enforce your rights you may reach us through the contact details set forth ab
 
 **Period for Storing Data; Deletion**
 
-The data are deleted if such data are no longer necessary for the purpose of processing. For more details please refer to VII <a href="https://docs.travis-ci.com/legal/privacy-policy/#VII.-Your-Rights" data-proofer-ignore>below</a>.
+The data are deleted if such data are no longer necessary for the purpose of processing. For more details please refer to VII <a href="https://docs.travis-ci.com/legal/privacy-policy/#vii-your-rights">below</a>.
 
 **Right to Lodge a Complaint**
 
@@ -92,7 +97,7 @@ III. What kind of Cookies, Web-tools or Third Party Providers does the Website u
 
 **TRAVIS CI SOFTWARE:**
 
-IV. How are my data used when registering for the use of the Travis CI Software and using the Travis CI Software? How do we access your GitHub-Account?
+IV. How are my data used when registering for the use of the Travis CI Software and using the Travis CI Software? How do we access your GitHub/Bitbucket/GitLab/Assembla account?
 
 V. What Third Party Providers are processing data when using the Travis CI Software? Are my data processed outside the EU when using the Travis CI Software?
 
@@ -109,11 +114,11 @@ IX. Contact
 ### I. What are Personal Data
 
 1. **Personal Data and Consent**
-    
+
     Personal data are any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Personal data includes e.g. name, email address or telephone number. Personal data also includes information about hobbies, memberships or websites viewed by someone else.
-    
+
     We will only collect, use and/or pass on personal data if this is permitted by law or if the User consents to processing their data.
-    
+
     Consent of the data subject means any freely given, specific, informed and unambiguous indication of the person’s (data subject) wishes by which they, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to them.
 
 ## Website
@@ -146,7 +151,7 @@ IX. Contact
 
     After registration, the user will receive an email to confirm the registration (“double opt-in”). Via clicking the registration link you have given your consent to the processing of your personal data for receiving our newsletter according to Art. 6 (1) a. GDPR and we may process such data accordingly.
 
-    In case of registration for the newsletter we (or our provider as specified below) also store the IP address, the device name, the mail provider as well as the user's first and last name and the date of registration. 
+    In case of registration for the newsletter we (or our provider as specified below) also store the IP address, the device name, the mail provider as well as the user's first and last name and the date of registration.
 
     **Use of Mailchimp; Transfer of Data outside the EU**
 
@@ -165,15 +170,15 @@ IX. Contact
 4. **Profiling and automated decision-making when visiting the Website**
 
 
-    We do not use profiling or automated decision-making when processing data concerning our Website except as set forth herein. However, our third party providers (such as set forth in III <a href="https://docs.travis-ci.com/legal/privacy-policy/#III.-What-kind-of-Cookies%2C-Web-tools-or-Third-Party-Providers-does-the-Website-use-and-how%3F" data-proofer-ignore>below</a>) may carry out such profiling in individual cases. If this is the case, we will inform you if possible.
+    We do not use profiling or automated decision-making when processing data concerning our Website except as set forth herein. However, our third party providers (such as set forth in III <a href="https://docs.travis-ci.com/legal/privacy-policy/#iii-what-kind-of-cookies-web-tools-or-third-party-providers-does-the-website-use-and-how" >below</a>) may carry out such profiling in individual cases. If this is the case, we will inform you if possible.
     Profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements.
     The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which has legal effect on them or substantially impairs them in a similar manner. This shall not apply where the decision (i) is necessary for the conclusion or performance of a contract between the data subject and the person responsible, (ii) is admissible under the laws of the European Union or of the member state to which the person responsible is subject and where such laws contain appropriate measures to safeguard the rights, freedoms and legitimate interests of the data subject, or (iii) is taken with the explicit consent of the data subject. In these exceptional cases, the person responsible shall take appropriate measures to safeguard the rights and freedoms and the legitimate interests of the data subject, including at least the right to obtain an action by the person responsible, to state his own position and to challenge the decision.
 
 ### III. What kind of Cookies, Web-tools or Third Party Providers does the Website use and how?
 
 1. **Cookies**
-  
-    In order to offer you a convenient online service featuring numerous functions, our Website uses text files (“Cookies”) containing information to identify returning visitors for the time of their visit to the Website. Cookies facilitate the transfer of specific content, such as entering data, which has already been supplied, and help us identify popular sections of our Website. 
+
+    In order to offer you a convenient online service featuring numerous functions, our Website uses text files (“Cookies”) containing information to identify returning visitors for the time of their visit to the Website. Cookies facilitate the transfer of specific content, such as entering data, which has already been supplied, and help us identify popular sections of our Website.
 
     OPT-OUT: You can deactivate the use of Cookies in the settings of your internet browser at any time. To find out how to change the settings, please consult the help function of your internet browser. You may also deactivate and manage Cookies via http://www.aboutads.info/choices/ (US-website-provider) or http://www.youronlinechoices.com/uk/your-ad-choices/ (EU-website-provider).
 
@@ -187,9 +192,11 @@ IX. Contact
 
 ## Travis Software
 
-### IV. How are my data used when registering for the use of the Travis CI Software and using the Travis CI Software? How do we access your GitHub-Account?
+### IV. How are my data used when registering for the use of the Travis CI Software and using the Travis CI Software? 
 
-1. **Registration; How do we access your GitHub-Account?**
+#### How do we access your cloud platform provider account?
+
+1. **Registration; How do we access your GitHub account?**
 
     In order to fully use the services of Travis CI Software, you will need to register. You may only register if you have an existing user account on the GitHub website https://github.com operated by GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA (“GitHub”).
 
@@ -202,13 +209,52 @@ IX. Contact
 
     The processing of data when using our Travis CI Software is generally based on your explicit consent when signing up (based on Art. 6 (1) a. GDPR) as well as the legal basis of Art. 6 (1) b. GDPR or TMG, i.e. the data will be processed, when this is necessary for the fulfillment of the contract between Customer and us or for executing any measures that take place on Customer’s/your request prior to the contract.
 
+**Registration; How do we access your Bitbucket account?**
+
+    In order to fully use the services of Travis CI Software, you will need to register. You may only register if you have an existing user account on the Bitbucket website https://bitbucket.org/ operated by Atlassian Corporation Plc, 341 George Street, Sydney, NSW, 2000 Australia (“Atlassian”).
+
+    When you sign up for using the Travis CI Software via your existing account at Bitbucket, data at Bitbucket with be accessible by us with your explicit consent only. Such data include:
+    *user profile (name, username, and email address), list of repositories you have access to, the configuration state of "service hooks" on each of those repositories*
+
+    The User can manage these data at any time via using his Bitbucket account linked to the Travis CI Software.
+
+    The data entered or transferred via Bitbucket as part of the registration process and any further data entered, will only be used via the Website and with our support to the extent that this processing is necessary for the fulfillment of a contract with us or for the implementation of pre-contractual measures, i.e. use of the Travis CI Software, as well as for the execution and processing of inquiries by the User.
+
+    The processing of data when using our Travis CI Software is generally based on your explicit consent when signing up (based on Art. 6 (1) a. GDPR) as well as the legal basis of Art. 6 (1) b. GDPR or TMG, i.e. the data will be processed, when this is necessary for the fulfillment of the contract between Customer and us or for executing any measures that take place on Customer’s/your request prior to the contract.
+
+**Registration; How do we access your GitLab account?**
+
+    In order to fully use the services of Travis CI Software, you will need to register. You may only register if you have an existing user account on the GitLab website https://about.gitlab.com/ operated by GitLab Inc, 268 Bush Street #350, San Francisco, CA 94104, United States of America.
+
+    When you sign up for using the Travis CI Software via your existing account at GitLab, data at GitLab with be accessible by us with your explicit consent only. Such data include:
+    *user profile (name, username, and email address), list of repositories you have access to, the configuration state of "service hooks" on each of those repositories*
+
+    The User can manage these data at any time via using his GitLab account linked to the Travis CI Software.
+
+    The data entered or transferred via GitLab as part of the registration process and any further data entered, will only be used via the Website and with our support to the extent that this processing is necessary for the fulfillment of a contract with us or for the implementation of pre-contractual measures, i.e. use of the Travis CI Software, as well as for the execution and processing of inquiries by the User.
+
+    The processing of data when using our Travis CI Software is generally based on your explicit consent when signing up (based on Art. 6 (1) a. GDPR) as well as the legal basis of Art. 6 (1) b. GDPR or TMG, i.e. the data will be processed, when this is necessary for the fulfillment of the contract between Customer and us or for executing any measures that take place on Customer’s/your request prior to the contract.
+
+**Registration; How do we access your Assembla account?**
+
+    In order to fully use the services of Travis CI Software, you will need to register. You may only register if you have an existing user account on the Assembla website https://www.assembla.com/ operated by Assembla, An Idera, Inc. Company, 10801 North Mopac Expressway, Austin, TX 78759, United States of America.
+
+    When you sign up for using the Travis CI Software via your existing account at Assembla, data at Assembla with be accessible by us with your explicit consent only. Such data include:
+    *user profile (name, username, and email address), list of repositories you have access to, the configuration state of "service hooks" on each of those repositories*
+
+    The User can manage these data at any time via using his Assembla account linked to the Travis CI Software.
+
+    The data entered or transferred via Assembla as part of the registration process and any further data entered, will only be used via the Website and with our support to the extent that this processing is necessary for the fulfillment of a contract with us or for the implementation of pre-contractual measures, i.e. use of the Travis CI Software, as well as for the execution and processing of inquiries by the User.
+
+    The processing of data when using our Travis CI Software is generally based on your explicit consent when signing up (based on Art. 6 (1) a. GDPR) as well as the legal basis of Art. 6 (1) b. GDPR or TMG, i.e. the data will be processed, when this is necessary for the fulfillment of the contract between Customer and us or for executing any measures that take place on Customer’s/your request prior to the contract.
+
 2. **Use of the Travis CI Software**
 
     For the further use of the Travis CI Software on the Website the Customer submits more data depending on the way of use of our services, such as details for tests etc.
 
     We use the information and data collected in the Travis CI Software, including your Personal Data, in order to fulfill our contractual obligations on the Customer’s behalf based on the legal basis of Art. 6 (1) b. GDPR or TMG and as further set forth in this privacy policy.
 
-    The respective Customer and us enter into a respective separate data processing agreement if we process personal data controlled by the Customer. 
+    The respective Customer and us enter into a respective separate data processing agreement if we process personal data controlled by the Customer.
 
     We do not store or receive any kind of payment or credit card data but use an external payment provider.
 
@@ -224,17 +270,17 @@ The use of our Travis CI Software may also include services and products by thir
 
 We process personal data of Users or other individuals provided by a Customer (as a business that uses the Travis CI Software) on behalf of Customer, i.e. Customer remains the controller of such data and we act as data processor subject to a separate data processing agreement.
 
-A list of such data processing and third party providers that process personal data outside the EU is set forth <a href="https://docs.travis-ci.com/legal/privacy-policy/#VI.-Could-my-Data-be-transferred-to-or-shared-with-Third-Parties%3F-Are-my-data-processed-outside-the-EU-when-using-the-Service%3F" data-proofer-ignore>here</a>.
+A list of such data processing and third party providers that process personal data outside the EU is set forth <a href="https://docs.travis-ci.com/legal/privacy-policy/#vi-could-my-data-be-transferred-to-or-shared-with-third-parties-are-my-data-processed-outside-the-eu-when-using-the-service" >here</a>.
 
 ## General
 
 ### VI. Could my Data be transferred to or shared with Third Parties? Are my data processed outside the EU when using the Service?
 
-We will transfer your Personal Data to a third party only within the scope of legal provisions, i.e. if we are obliged to transfer the data due to a government or court order, or if applicable legal provisions authorize the transfer. If we us third party providers who process data outside the EU such third party providers guarantee to comply with EU data protection standards as set forth in this privacy policy.
+We will transfer your Personal Data to a third party only within the scope of legal provisions, i.e. if we are obliged to transfer the data due to a government or court order, or if applicable legal provisions authorize the transfer. If we use third party providers who process data outside the EU such third party providers guarantee to comply with EU data protection standards as set forth in this privacy policy.
 
-For details of data processing by third party providers in/outside the EU when using the Website please also refer to III <a href="https://docs.travis-ci.com/legal/privacy-policy/#III.-What-kind-of-Cookies%2C-Web-tools-or-Third-Party-Providers-does-the-Website-use-and-how%3F" data-proofer-ignore>above</a>.
+For details of data processing by third party providers in/outside the EU when using the Website please also refer to III <a href="https://docs.travis-ci.com/legal/privacy-policy/#iii-what-kind-of-cookies-web-tools-or-third-party-providers-does-the-website-use-and-how" >above</a>.
 
-For details of data processing by third party providers in/outside the EU when using the Travis CI Software please also refer to IV <a href="https://docs.travis-ci.com/legal/privacy-policy/#IV.-How-are-my-data-used-when-registering-for-the-use-of-the-Travis-CI-Software-and-using-the-Travis-CI-Software%3F-How-do-we-access-your-GitHub-Account%3F" data-proofer-ignore>above</a>. We process personal data of Users or other individuals provided by a Customer (as a business that uses the Travis CI Software) on behalf of Customer, i.e. Customer remains the controller of such data and we act as data processor subject to a separate data processing agreement.
+For details of data processing by third party providers in/outside the EU when using the Travis CI Software please also refer to IV <a href="https://docs.travis-ci.com/legal/privacy-policy/#iv-how-are-my-data-used-when-registering-for-the-use-of-the-travis-ci-software-and-using-the-travis-ci-software-how-do-we-access-your-github-account" >above</a>. We process personal data of Users or other individuals provided by a Customer (as a business that uses the Travis CI Software) on behalf of Customer, i.e. Customer remains the controller of such data and we act as data processor subject to a separate data processing agreement.
 
 ### VII. Your Rights
 
@@ -244,14 +290,14 @@ For details of data processing by third party providers in/outside the EU when u
 
     You are entitled to access the data stored by us and are also entitled to amend or rectify your data if such data are incorrect.
 
-    You are entitled to request the erasure of your data. 
+    You are entitled to request the erasure of your data.
 
     You are entitled to receive information about the stored data (in a structured, current and machine-readable format) at any time and to request the correction or deletion of the data in case of incorrect data storage.
 
     For such withdrawal of your consent, access, erasure or information on your data please send us an email to data@travis-ci.com.
 
 2. **You have the right to lodge a complaint:**
-   
+
    You have a right to lodge a complaint vis-á-vis a supervisory authority of your choice. The supervisory authorities in Germany are the competent (data protection) authorities in accordance with the respective laws of the federal states (Bundesländer).
 
     An overview of the European National Data Protection Authorities may be found here: http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080
@@ -270,11 +316,11 @@ In order to ensure the best possible protection of the data, the Website and Tra
 
 1. **SSL connection of the Website**
 
-    In order to ensure the best possible protection of the user's data, the Website is offered via a secure SSL/TLS connection between the User’s server and the browser, i.e. the data is transmitted in encrypted form. 
+    In order to ensure the best possible protection of the user's data, the Website is offered via a secure SSL/TLS connection between the User’s server and the browser, i.e. the data is transmitted in encrypted form.
 
 2. **Servers and System Security**
 
-    The data we process in connection with our Website and Travis CI Software will be stored on servers within the European Union (EU), if not provided otherwise in this privacy policy. 
+    The data we process in connection with our Website and Travis CI Software will be stored on servers within the European Union (EU), if not provided otherwise in this privacy policy.
 
     When using the Travis CI Software your code, depending on which platform or language runtime you are using, is run on virtualized servers running in the USA. For more details please refer to the privacy policy and contact us at data@travis-ci.com.
 
@@ -292,12 +338,15 @@ We are entitled to amend this privacy policy in accordance with the applicable r
 
 We have appointed a data protection officer who may be reached via data@travis-ci.com. For acting out your rights and additional questions about the issue of personal data you can contact us at any time: https://docs.travis-ci.com/imprint.html
 
-| Third Party Provider        | Data Processing Purpose | CData Processing outside the EU / Compliance with EU Data Protection Standard  | Further Information |
-| :---------------------------:|:-------------:|:-----:|:------:|
-| Stripe | For any processes regarding payments we use the services of Stripe, Inc., 185 Berry Street, Suite 550, San Francisco, CA 94107, USA. Regarding any processes of payments we do not receive, collect and/or store any payment data. Stripe will use such data for the purpose of managing the payments relating to our services. |Stripe, Inc. is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | For further information please refer to https://stripe.com/de/privacy |
-| GitHub | For the purpose of providing and further developing our Travis CI Software and services on the Travis CI Software we use the Travis CI Software development platform by Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA. | Github, Inc. is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | For further information please refer to Github’s privacy statement: https://help.github.com/articles/github-privacy-statement/ or use the contact form under https://github.com/contact/privacy |
-| Amazon Web Services (AWS) | We use the service by Amazon Web Services by Amazon Web Services, Inc., 410 Terry Avenue North Seattle WA 98109, USA for the purpose of hosting your data provided in the Travis CI Software. | Amazon Web Services, Inc. is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | https://aws.amazon.com/compliance/eu-data-protection/ and https://aws.amazon.com/compliance/germany-data-protection/ |
-| Google Cloud | We use the service by Google LLC, Mountain View, CA, USA for the purpose of hosting your data provided in the Travis CI Software. | Google LLC is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | For further information please refer to https://policies.google.com/privacy?hl=de |
-| Heroku | We use the service by Heroku Inc. by salesforce.com Inc., the Landmark @ One Market, Suite 300, San Francisco, California 94105 USA for the purpose of hosting your data provided in the Travis CI Software. | Heroku Inc. is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | For further information please refer to https://www.salesforce.com/company/privacy/ |
-| Zendesk | We use the service by Zendesk Inc., 1019 Market Street, San Francisco, CA 94103, USA for customer support services. | Zendesk Inc. is certified according to EU-US-Privacy-Shield and and complies with data protection standards applicable in the EU. | https://www.zendesk.co.uk/company/customers-partners/privacy-policy |
-| Mailchimp | We use the mail provider “Mailchimp” by Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA that receives and processes the data necessary for email communication. These data are processed on servers in the USA. Mailchimp also analyzes the user behavior when reading their emails. | MailChimp is certified according to “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | https://mailchimp.com/legal/privacy/|
+|   Third Party Provider    |                                                                                                                                                     Data Processing Purpose                                                                                                                                                     |                                                                                    CData Processing outside the EU / Compliance with EU Data Protection Standard                                                                                    |                                                                                       Further Information                                                                                       |
+|:-------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|          Stripe           | For any processes regarding payments we use the services of Stripe, Inc., 185 Berry Street, Suite 550, San Francisco, CA 94107, USA. Regarding any processes of payments we do not receive, collect and/or store any payment data. Stripe will use such data for the purpose of managing the payments relating to our services. |       Stripe, Inc. is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.        |                                                              For further information please refer to https://stripe.com/de/privacy                                                              |
+|          GitHub           |                                           For the purpose of providing and further developing our Travis CI Software and services on the Travis CI Software we use the Travis CI Software development platform by Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA.                                            |       Github, Inc. is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.        | For further information please refer to Github’s privacy statement: https://help.github.com/articles/github-privacy-statement/ or use the contact form under https://github.com/contact/privacy |
+|          Atlassian           |                                           For the purpose of providing and further developing our Travis CI Software and services on the Travis CI Software we use the Travis CI Software development platform by Atlassian Corporation Plc, 341 George Street, Sydney, NSW, 2000 Australia | Atlassian Corporation Plc, 341 George Street, Sydney, NSW, 2000 Australia is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.        | For further information please refer to Atlassian’s privacy policy: https://www.atlassian.com/legal/privacy-policy |
+|          GitLab           |                                           For the purpose of providing and further developing our Travis CI Software and services on the Travis CI Software we use the Travis CI Software development platform by GitLab Inc, 268 Bush Street #350, San Francisco, CA 94104, United States of America | GitLab Inc, 268 Bush Street #350, San Francisco, CA 94104, United States of America is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.        | For further information please refer to GitLab’s privacy policy: https://about.gitlab.com/privacy/ |
+|          Assembla           |                                           For the purpose of providing and further developing our Travis CI Software and services on the Travis CI Software we use the Travis CI Software development platform by Assembla, An Idera, Inc. Company, 10801 North Mopac Expressway, Austin, TX 78759, United States of America | Assembla, An Idera, Inc. Company, 10801 North Mopac Expressway, Austin, TX 78759, United States of America is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.        | For further information please refer to Assembla’s privacy policy: https://www.ideracorp.com/Legal/PrivacyShield |
+| Amazon Web Services (AWS) |                                                                  We use the service by Amazon Web Services by Amazon Web Services, Inc., 410 Terry Avenue North Seattle WA 98109, USA for the purpose of hosting your data provided in the Travis CI Software.                                                                  | Amazon Web Services, Inc. is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. |                                      https://aws.amazon.com/compliance/eu-data-protection/ and https://aws.amazon.com/compliance/germany-data-protection/                                       |
+|       Google Cloud        |                                                                                                We use the service by Google LLC, Mountain View, CA, USA for the purpose of hosting your data provided in the Travis CI Software.                                                                                                |        Google LLC is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.         |                                                        For further information please refer to https://policies.google.com/privacy?hl=de                                                        |
+|          Heroku           |                                                          We use the service by Heroku Inc. by salesforce.com Inc., the Landmark @ One Market, Suite 300, San Francisco, California 94105 USA for the purpose of hosting your data provided in the Travis CI Software.                                                           |        Heroku Inc. is certified according to the EU-US agreement “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.        |                                                       For further information please refer to https://www.salesforce.com/company/privacy/                                                       |
+|          Zendesk          |                                                                                                       We use the service by Zendesk Inc., 1019 Market Street, San Francisco, CA 94103, USA for customer support services.                                                                                                       |                                                          Zendesk Inc. is certified according to EU-US-Privacy-Shield and and complies with data protection standards applicable in the EU.                                                          |                                                               https://www.zendesk.co.uk/company/customers-partners/privacy-policy                                                               |
+|         Mailchimp         |   We use the mail provider “Mailchimp” by Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA that receives and processes the data necessary for email communication. These data are processed on servers in the USA. Mailchimp also analyzes the user behavior when reading their emails.   |                   MailChimp is certified according to “Privacy Shield”. The “Privacy Shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.                   |                                                                              https://mailchimp.com/legal/privacy/                                                                               |
